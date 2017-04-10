@@ -36,7 +36,7 @@ input.searchInput {
 }
 
 .buttons {
-	margin-bottom: 180px;
+	margin-bottom: 210px;
 }
 /* end content */
 
@@ -65,6 +65,10 @@ nav.footer ul {
 
 nav.footer ul li {
 	margin-right: 10px;
+}
+
+footer {
+	background: #eaeaea;
 }
 /* end footer */
 
